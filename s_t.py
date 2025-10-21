@@ -59,7 +59,8 @@ Presiona el botón de **Escuchar**, di tu frase, y luego elige cómo y a qué id
 
 # --- IMAGEN PRINCIPAL ---
 try:
-    image = Image.open('OIG7.jpg')
+    image = Image.open('ebbacd691475f0a6f7d43d7be15472aa.jpg
+')
     st.image(image, width=280)
 except:
     st.warning("No se pudo cargar la imagen de encabezado.")
